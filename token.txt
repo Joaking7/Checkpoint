@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 token blanca: dhfdfdfjhdfdhfisfvhf
+=======
+Token ValeG: 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 
+token joako: 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
+token sebas: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
+>>>>>>> 83284a83ad0812b1868c4e01a7e25831bf219b5a
